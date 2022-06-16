@@ -1,5 +1,4 @@
-People shouldn't need to write weird hacks in order to achieve performance - that's what compilers are for!
-I'm hoping that we can make them even better than they already are, so that systems development languages can emit ever so slightly better code generation.
+You can find me optimizing software or complaining about compilers.
 
 I'm familiar with C++ and Rust, among other languages and technologies.
 
