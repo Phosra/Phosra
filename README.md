@@ -6,4 +6,4 @@ I'm familiar with C++, Rust, WebAssembly, and Arm(v7/v8), among other programmin
 
 Skilled with bitwise operations, SWAR, and SIMD.
 
-Available for contract & remote work.
+Unemployed; available for contract & remote work.
