@@ -4,6 +4,6 @@ You can find me optimizing software, complaining about compilers, or doing anyth
 
 I'm familiar with C++, Rust, WebAssembly, and Arm(v7/v8), among other programming languages and technologies.
 
-Skilled with bitwise operations, SWAR, and SIMD.
+Skilled with bitwise operations, SWAR, SIMD, DOD, and probably everything else related to performance optimization.
 
 Unemployed; available for contract & remote work.
